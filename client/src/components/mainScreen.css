@@ -1,0 +1,9 @@
+.main-screen{
+    height: 100vh;
+    display: flex;
+    padding: 40px 0px;
+}
+
+.main-title{
+    text-align: center;
+}
